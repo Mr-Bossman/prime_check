@@ -1,0 +1,1 @@
+g++ -o prime prime.c -lgmp -lpthread
